@@ -1,0 +1,2 @@
+(this["webpackJsonp@uniswap/interface"]=this["webpackJsonp@uniswap/interface"]||[]).push([[8],{1030:function(n,i){},925:function(n,i){},926:function(n,i){},935:function(n,i){},936:function(n,i){},956:function(n,i){},959:function(n,i){},960:function(n,i){},965:function(n,i){},969:function(n,i){}}]);
+//# sourceMappingURL=8.927b33eb.chunk.js.map
