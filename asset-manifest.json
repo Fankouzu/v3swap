@@ -4,10 +4,10 @@
     "static/js/0.dde8d5b9.chunk.js.map": "./static/js/0.dde8d5b9.chunk.js.map",
     "static/js/1.b3589e3f.chunk.js": "./static/js/1.b3589e3f.chunk.js",
     "static/js/1.b3589e3f.chunk.js.map": "./static/js/1.b3589e3f.chunk.js.map",
-    "main.js": "./static/js/main.e1a0c99e.chunk.js",
-    "main.js.map": "./static/js/main.e1a0c99e.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.2627d3f8.js",
-    "runtime-main.js.map": "./static/js/runtime-main.2627d3f8.js.map",
+    "main.js": "./static/js/main.a1821397.chunk.js",
+    "main.js.map": "./static/js/main.a1821397.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.aef95dd4.js",
+    "runtime-main.js.map": "./static/js/runtime-main.aef95dd4.js.map",
     "static/css/4.2efb9cd0.chunk.css": "./static/css/4.2efb9cd0.chunk.css",
     "static/js/4.e0c5e501.chunk.js": "./static/js/4.e0c5e501.chunk.js",
     "static/js/4.e0c5e501.chunk.js.map": "./static/js/4.e0c5e501.chunk.js.map",
@@ -35,8 +35,8 @@
     "static/js/15.00f2f54b.chunk.js.map": "./static/js/15.00f2f54b.chunk.js.map",
     "static/js/16.32c7cbcd.chunk.js": "./static/js/16.32c7cbcd.chunk.js",
     "static/js/16.32c7cbcd.chunk.js.map": "./static/js/16.32c7cbcd.chunk.js.map",
-    "static/js/17.268e8f57.chunk.js": "./static/js/17.268e8f57.chunk.js",
-    "static/js/17.268e8f57.chunk.js.map": "./static/js/17.268e8f57.chunk.js.map",
+    "static/js/17.875d5934.chunk.js": "./static/js/17.875d5934.chunk.js",
+    "static/js/17.875d5934.chunk.js.map": "./static/js/17.875d5934.chunk.js.map",
     "static/js/18.dbd13230.chunk.js": "./static/js/18.dbd13230.chunk.js",
     "static/js/18.dbd13230.chunk.js.map": "./static/js/18.dbd13230.chunk.js.map",
     "static/js/19.c3e8a61c.chunk.js": "./static/js/19.c3e8a61c.chunk.js",
@@ -105,7 +105,7 @@
     "static/media/de-DE.po": "./static/media/de-DE.2645778a.po",
     "static/media/dropdown.fef18eeb.svg": "./static/media/dropdown.fef18eeb.svg",
     "static/media/el-GR.po": "./static/media/el-GR.d7269c8e.po",
-    "static/media/en-US.po": "./static/media/en-US.858ea931.po",
+    "static/media/en-US.po": "./static/media/en-US.0ac5c8aa.po",
     "static/media/es-ES.po": "./static/media/es-ES.9554aa3f.po",
     "static/media/fi-FI.po": "./static/media/fi-FI.2ed8140c.po",
     "static/media/fr-FR.po": "./static/media/fr-FR.a8e0eb0a.po",
@@ -143,9 +143,9 @@
     "static/media/zh-TW.po": "./static/media/zh-TW.235e4f45.po"
   },
   "entrypoints": [
-    "static/js/runtime-main.2627d3f8.js",
+    "static/js/runtime-main.aef95dd4.js",
     "static/css/4.2efb9cd0.chunk.css",
     "static/js/4.e0c5e501.chunk.js",
-    "static/js/main.e1a0c99e.chunk.js"
+    "static/js/main.a1821397.chunk.js"
   ]
 }
